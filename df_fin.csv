@@ -1,0 +1,14 @@
+,id_sortant,nom_sortant,prenom_sortant,date_naiss,lieu_naiss,sexe,tel_sortant,tel_parent,annee_obt_dip,situation_pro,id_metier,id_residence,statut_x,nom_metier,id_secteur,statut_y,nom_secteur,quartier,id_commune,nom_commune,id_dep
+0,13,Oudou,Fatoumatou,2022-12-01,niamey,F,89898989,90090909,2013.0,EN_EMPLOI,2,1,,pisciculture,11.0,0.0,Agriculture et elevage,lazaret,1,commune 1,6
+1,2,,,2022-09-29,,F,,,,ENTREPRENEUR,2,2,,pisciculture,11.0,0.0,Agriculture et elevage,Dar-es-salam,2,commune 2,6
+2,3,oudou,aichatou,2022-09-28,niamey,F,90909090,90000001,,ENTREPRENEUR,0,1,,,,,,lazaret,1,commune 1,6
+3,4,,,,,F,,,,SANS_EMPLOI,0,2,,,,,,Dar-es-salam,2,commune 2,6
+4,5,"vbv,c,x",skjxn,,,H,,,,EN_EMPLOI,0,1,,,,,,lazaret,1,commune 1,6
+5,6,hjhomijpjo,"k,iup",,,H,,,,EN_EMPLOI,0,1,,,,,,lazaret,1,commune 1,6
+6,7,"nnnc,",,,,H,,,,EN_EMPLOI,0,1,,,,,,lazaret,1,commune 1,6
+7,8,yturddd,dd,,,H,,,,EN_EMPLOI,0,1,,,,,,lazaret,1,commune 1,6
+8,9,ttt,,,,H,,,,EN_EMPLOI,11,1,, agriculteur/eleveur,11.0,0.0,Agriculture et elevage,lazaret,1,commune 1,6
+9,10,oud,zeinaou,2022-11-04,niamey,F,90909090,99999999,,SANS_EMPLOI,64,2,,Coiffure  ,6.0,0.0,Esthetique,Dar-es-salam,2,commune 2,6
+10,11,Yaou,Roukaya,2021-02-03,niamey,F,90909090,90000001,,SANS_EMPLOI,57,2,,Couturier,12.0,0.0,"Textile habillement, cuire",Dar-es-salam,2,commune 2,6
+11,12,moi,mpoi,,,H,,,2020.0,EN_EMPLOI,1,1,,,,,,lazaret,1,commune 1,6
+12,14,yaou,fati,2022-11-30,niamey,F,90909090,90090909,2015.0,EN_EMPLOI,2,1,,pisciculture,11.0,0.0,Agriculture et elevage,lazaret,1,commune 1,6

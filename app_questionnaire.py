@@ -20,8 +20,8 @@ def create_database():
 create_database()
 
 # Création de la page d'accueil
-image_file =Image.open("Logo_santraplus.png")
-st.image(image_file, width=200)
+#image_file =Image.open("Logo_santraplus.png")
+#st.image(image_file, width=200)
 
 st.title("Questionnaire de satisfaction suite à votre visite")
 st.write("Le sondage prendra environ 4 minutes.")

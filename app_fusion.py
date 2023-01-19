@@ -8,12 +8,6 @@ import smtplib
 def main():
     st.title("Bienvenuue Chez Santra Plus")
     st.write("# Vous êtes sur la plateforme de fusion des bases de données pour les envois des emails concernant le questionnaire de satisfaction de Santra plus")
-    #  with s.sidebar:
-    #     s.subheader('Apropos')
-    #     s.markdown(
-    #         'Bienvennue sur cette page vous allez retrouver des **statisques** et **graphiques**')
-    # s.sidebar.image(
-    #     'https://streamlit.io/images/brand/streamlit-mark-color.png', width=100)
 
     st.markdown('''
         Il s'agit d'une plateforme qui va notre permettre de faire une fusion automatique de la table des salaires hors consultation spécialise* et la table des salaires vus la semaine précédente(deux jours) pour les envoyer des mails automatiquement juste après la fusion

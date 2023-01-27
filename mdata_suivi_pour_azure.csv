@@ -1,0 +1,532 @@
+lieu_naiss,sexe,situation_matrimoniale,metier,residence,Date_naissance,label
+Niamey,M,Célibataire,Couturier,Recasement,2000-02-03,1
+Riadi,F,Célibataire,Couturier,Cité caisse,2004-01-01,0
+Niamey,F,Marié(e),Couturier,Zabarkane,1987-01-03,1
+Niamey,F,Célibataire,Couturier,Koubia,1988-07-29,0
+Niamey,F,Célibataire,Couturier,Djiddah,1994-01-25,1
+Niamey,F,Marié(e),Couturier,Djiddah,1996-11-23,1
+Niamey,F,Célibataire,Couturier,Koira tegui,2005-05-10,1
+Bankoukou,F,Célibataire,Couturier,Thangarey,1994-12-31,1
+Niamey,F,Célibataire,Couturier,Kombo,1997-12-19,0
+Niamey,F,Célibataire,Couturier,Tchangarey,2003-05-31,0
+Niamey,F,Célibataire,Couturier,Cité caisse,2005-03-05,1
+Foula Koira,F,Célibataire,Couturier,Koira tégui,1996-05-09,1
+Birnin lokoyo,F,Célibataire,Couturier,Bassora,1990-01-01,0
+Niamey,F,Célibataire,Couturier,Banifandou 2,2004-10-31,0
+Silinké,F,Marié(e),Couturier,Dan Gao,1996-01-01,0
+Niamey,F,Célibataire,Couturier,Koubia,1992-01-01,0
+Matamey,F,Célibataire,Couturier,Lossagoungou,2000-08-09,0
+Niamey,F,Célibataire,Couturier,Bobiel,1985-01-01,0
+Niamey,F,Célibataire,Couturier,Bobiel,1985-09-03,1
+Niamey,F,Marié(e),Couturier,Bassora,1997-05-23,0
+Niamey,F,Célibataire,Couturier,Harobanda,2000-10-13,0
+Niamey,F,Célibataire,Couturier,Koira Kano,2001-11-18,0
+Niamey,F,Célibataire,Couturier,Soudouré,1997-01-01,1
+Niamey,F,Célibataire,Couturier,Lossagoungou,2002-05-04,0
+Niamey,F,Célibataire,Couturier,Nouveau-Marché,1997-05-03,1
+Niamey,F,Célibataire,Couturier,Boukoki,2002-07-01,1
+Niamey,F,Marié(e),Couturier,Boukoki,2000-03-28,0
+Niamey,F,Marié(e),Couturier,Yantala,2000-08-06,0
+Guidan Barmo,F,Célibataire,Couturier,Stade Grle Seyni K,1998-03-15,1
+Niamey,F,Célibataire,Couturier,Dar es salam,2001-08-31,1
+Niamey,F,Marié(e),Couturier,Yantala,1986-01-01,1
+Niamey,F,Célibataire,Couturier,Sonni,2000-03-26,0
+Zarmagandey,M,Célibataire,Couturier,Sonuci,2003-11-29,1
+Fandoga,F,Célibataire,Couturier,Saga,1999-01-01,0
+Niamey,F,Célibataire,Couturier,Sonuci,2003-01-01,1
+Niamey,F,Célibataire,Couturier,Koubia,1997-01-01,1
+Niamey,F,Célibataire,Couturier,Koubia,2001-09-17,1
+Niamey,F,Marié(e),Couturier,Koira kano,2000-04-15,0
+Niamey,F,Célibataire,Couturier,Lazaret,2001-12-16,1
+Begorou Tondo,F,Célibataire,Couturier,Sonuci,1996-01-01,0
+Keita Tahoua,F,Célibataire,Couturier,Koubia,1999-01-08,0
+Niamey,F,Célibataire,Couturier,Bassora,1999-01-16,1
+Dioubourga,F,Marié(e),Couturier,Wadata,1995-04-22,0
+Wassangou,F,Célibataire,Couturier,Riyad,1993-02-12,0
+Niamey,F,Célibataire,Couturier,Lazaret,2003-01-01,1
+Niamey,F,Célibataire,Couturier,Wadata,2000-01-08,0
+Niamey,F,Célibataire,Couturier,Bassora,1995-01-01,0
+Niamey,F,Célibataire,Couturier,Nouveau-Marché,1997-05-03,1
+Nà Niamey,F,Célibataire,Couturier,Sonuci Seyni Omar,1997-01-01,1
+Niamey,F,Célibataire,Couturier,Harobanda,2002-01-01,1
+Niamey,F,Célibataire,Couturier,Bassora,2002-02-13,1
+Tillakoira,F,Célibataire,Couturier,Cité caisse,1994-07-20,1
+Niamey,F,Célibataire,Couturier,Fada loubatou,2001-05-31,1
+Niamey,F,Célibataire,Couturier,Zangorzo,2008-12-17,1
+Ouallam,F,Célibataire,Mecanicien Auto,Lazaret,2001-10-07,0
+Niamey,F,Célibataire,Mecanicien Auto,Riyad,1999-12-14,0
+Niamey,M,Célibataire,Mecanicien Auto,Koira Kano,1996-01-18,1
+Niamey,M,Célibataire,Mecanicien Auto,Aéroport,1997-08-24,1
+Niamey,M,Célibataire,Mecanicien Auto,Recasement,2003-07-30,0
+Niamey,M,Célibataire,Mecanicien Auto,Lossagoungou,2004-06-07,1
+Namey,M,Célibataire,Mecanicien Auto,Banifandou,2004-12-08,0
+Sargane,M,Célibataire,Mecanicien Auto,Dar es salam,1999-05-20,1
+Agadez,M,Marié(e),Mecanicien Auto,Niamey 2000,1996-01-15,1
+Niamey,M,Célibataire,Mecanicien Auto,Dar es salam,2003-08-05,0
+Niamey,M,Célibataire,Mecanicien Auto,Gaweye,2000-03-08,1
+Niamey,M,Célibataire,Mecanicien Auto,Gaweye,2003-12-23,0
+Niamey,M,Célibataire,Mecanicien Auto,Aéroport,2000-07-08,0
+Togo,M,Célibataire,Mecanicien Auto,Yantala,1999-05-07,1
+Doutchi,M,Célibataire,Mecanicien Auto,Dan zama koira,1997-07-02,1
+Niamey,M,Célibataire,Mecanicien Auto,Bobiel,2004-11-17,1
+Niamey,M,Célibataire,Mecanicien Auto,Complexe,1995-01-01,1
+Niamey,M,Célibataire,Mecanicien Auto,Nord faisceau,1996-01-05,0
+Niamey,M,Célibataire,Mecanicien Auto,Recasement,2004-01-05,0
+Niamey,M,Célibataire,Mecanicien Auto,Yantala,1998-08-18,0
+Niamey,M,Célibataire,Mecanicien Auto,Foulan koira,2003-05-04,0
+Niamey,M,Célibataire,Mecanicien Auto,Dan zama koira,2006-07-10,1
+Niamey,M,Célibataire,Mecanicien Auto,Sonuci,2006-01-01,1
+Niamey,M,Célibataire,Mecanicien Auto,Foulan koira,2004-12-31,1
+Niamey,M,Célibataire,Mecanicien Auto,Niamey 2000,2004-02-12,0
+Niamey,M,Célibataire,Mecanicien Auto,Dar es salam,2000-11-19,1
+Niamey,M,Célibataire,Mecanicien Auto,Recasement,2001-03-17,1
+Garin Goulbi,M,Célibataire,Mecanicien Auto,Recasement,2004-04-04,0
+Aitogwaye/Magaria,M,Célibataire,Mecanicien Auto,Niamey 2000,1997-01-01,0
+Niamey,M,Célibataire,Mecanicien Auto,Talladjé,1999-08-28,1
+Niamey,M,Célibataire,Mecanicien Auto,Tourakou,2003-01-01,1
+Niamey,M,Célibataire,Mecanicien Auto,Kalley plateau,1997-11-19,0
+Damana/Fillingué,M,Célibataire,Mecanicien Auto,Koira Kano,2000-01-05,0
+Niamey,M,Célibataire,Mecanicien Auto,Haro banda,1998-10-22,1
+Niamey,M,Célibataire,Mecanicien Auto,Gamkallé,1997-03-08,1
+Niamey,M,Célibataire,Mecanicien Auto,Francophoni,2005-10-02,0
+Niamey,M,Célibataire,Mecanicien Auto,Aéroport,1996-10-14,1
+Niamey,M,Célibataire,Mecanicien Auto,Aéroport,2000-01-31,1
+Torodi,M,Célibataire,Electricien batiment,Francophonie,2005-11-04,0
+Niamey,M,Célibataire,Electricien batiment,Bobiel,2007-11-07,1
+Liboré,M,Célibataire,Electricien batiment,Aéroport,2001-01-01,0
+S/Broum Magaria,M,Célibataire,Electricien batiment,Haro Banda,1995-01-01,1
+Matamey,M,Célibataire,Electricien batiment,Haro Banda,1993-03-10,1
+Niamey,M,Célibataire,Electricien batiment,Gawey,2004-01-01,0
+Niamey,M,Célibataire,Electricien batiment,Haro Banda,1999-10-08,0
+Niamey,M,Célibataire,Electricien batiment,Aéroport,2001-09-03,1
+Niamey,M,Célibataire,Electricien batiment,Yantala,2003-11-29,0
+Niamey,M,Célibataire,Electricien batiment,Lossogoungou,1996-01-01,0
+Niamey,M,Célibataire,Electricien batiment,Niamey 2000,2002-09-24,0
+Agadez,M,Célibataire,Electricien batiment,Yantala,2002-03-04,0
+Niamey,M,Célibataire,Electricien batiment,Koubia,2003-09-03,1
+Arlit,M,Célibataire,Electricien batiment,Aéroport,2003-01-20,0
+Gaya,M,Célibataire,Electricien batiment,Aéroport,1999-12-22,0
+Kannaré,M,Célibataire,Electricien batiment,Niamey 2000,2003-04-17,1
+Tera,M,Célibataire,Electricien batiment,Niamey 2000,1989-01-01,0
+Niamey,M,Célibataire,Electricien batiment,Route Filingué,1992-11-05,0
+Niamey,M,Célibataire,Electricien batiment,Route Filingué,2003-01-01,0
+Akokan,M,Célibataire,Electricien batiment,Garbado,1988-01-11,1
+Niamey,M,Marié(e),Electricien batiment,Nord faisceau,2002-04-27,1
+Niamey,M,Célibataire,Electricien batiment,Bani fandou 2,1995-08-04,0
+N'dounga,M,Célibataire,Electricien batiment,Boukoki Askia,2002-02-19,1
+Filingué,M,Célibataire,Electricien batiment,Bani fandou,1994-12-04,0
+Niamey,M,Célibataire,Electricien batiment,Pays bas,2003-03-20,0
+Niamey,M,Célibataire,Electricien batiment,Kalley EST,2000-12-19,1
+Tchirozerine,M,Célibataire,Electricien batiment,Recasement,2003-03-18,1
+Niamey,M,Célibataire,Electricien batiment,Recasement,2003-08-08,0
+Niamey,M,Célibataire,Electricien batiment,Koira Kano,1999-03-23,1
+Niamey,M,Célibataire,Electricien batiment,Wadata,2002-01-17,1
+Niamey,M,Célibataire,Electricien batiment,Talladjé,1996-08-20,1
+Niamey,M,Célibataire,Electricien batiment,Talladjé,1993-01-25,0
+Niamey,M,Célibataire,Electricien batiment,Losso goungou,1996-01-01,0
+Niamey,M,Célibataire,Electricien batiment,Losso goungou,2001-02-19,1
+Niamey,M,Célibataire,Electricien batiment,Boukoki,1996-01-25,1
+Niamey,M,Célibataire,Electricien batiment,Boukouki,1990-09-27,1
+Niamey,M,Célibataire,Electricien batiment,Boukoki,1996-12-28,0
+Diffa,M,Célibataire,Electricien batiment,Boukoki 4,1998-11-15,0
+Niamey,M,Célibataire,Electricien batiment,Banifandou,2002-12-11,0
+Niamey,M,Célibataire,Coiffeuse (homme-dame),Banizoumbou,2002-10-27,1
+Niamey,M,Célibataire,Coiffeuse (homme-dame),Dan Zama Koira,2002-04-03,0
+Niamey,F,Célibataire,Coiffeuse (homme-dame),Lossogoungou,2003-02-27,0
+Niamey,F,Célibataire,Coiffeuse (homme-dame),Goudel,2002-06-28,0
+Niamey,F,Célibataire,Coiffeuse (homme-dame),Harobanda,1991-12-06,1
+Niamey,F,Célibataire,Coiffeuse (homme-dame),Bobiel,2001-04-24,0
+Niamey,F,Célibataire,Coiffeuse (homme-dame),Bobiel,1999-03-04,0
+Tchirozerine,F,Célibataire,Coiffeuse (homme-dame),Francophonie,1993-07-09,0
+Foulan Koira,F,Célibataire,Coiffeuse (homme-dame),Bobiel,1995-08-29,0
+Niamey,F,Célibataire,Coiffeuse (homme-dame),Bobiel,1996-02-21,1
+Niamey,F,Marié(e),Coiffeuse (homme-dame),Goudel,1986-10-31,1
+Niaamey,F,Célibataire,Coiffeuse (homme-dame),Bobiel,1998-01-01,1
+Niamey,F,Célibataire,Coiffeuse (homme-dame),Yantala,1998-12-22,1
+Niamey,F,Célibataire,Coiffeuse (homme-dame),Koubia,2000-01-30,0
+Niamey,F,Célibataire,Coiffeuse (homme-dame),Koubia,1994-03-19,0
+Niamey,F,Célibataire,Coiffeuse (homme-dame),Dar es salam,2000-11-19,1
+Niamey,F,Marié(e),Coiffeuse (homme-dame),Talladjé,1999-09-19,0
+Niamey,F,Célibataire,Coiffeuse (homme-dame),Yantala,1996-05-25,0
+Niamey,F,Célibataire,Coiffeuse (homme-dame),Goudel,2001-02-06,1
+Niamey,F,Célibataire,Coiffeuse (homme-dame),Goudel,2001-12-27,1
+Niamey,F,Célibataire,Coiffeuse (homme-dame),Goudel,1999-12-11,0
+Niamey,F,Célibataire,Coiffeuse (homme-dame),Gaweyé,1993-09-17,1
+Kantché,F,Célibataire,Coiffeuse (homme-dame),Bobiel,1999-10-22,1
+Dosso,F,Célibataire,Coiffeuse (homme-dame),Couran-Nord,1987-07-01,1
+Niamey,F,Marié(e),Coiffeuse (homme-dame),Koira kano,1996-02-13,1
+Niamey,F,Célibataire,Coiffeuse (homme-dame),Lazaret,1997-01-20,0
+Bazigagorou,F,Célibataire,Coiffeuse (homme-dame),Dan zama koira,2004-11-29,1
+Niamey,F,Célibataire,Coiffeuse (homme-dame),Dan zama koira,1990-11-09,0
+Niamey,F,Célibataire,Coiffeuse (homme-dame),Dan zama koira,2004-07-09,0
+Doutchi,F,Célibataire,Coiffeuse (homme-dame),Banifandou,1995-02-26,0
+Maradi,F,Célibataire,Coiffeuse (homme-dame),Harobanda,2004-04-05,1
+Niamey,F,Célibataire,Coiffeuse (homme-dame),Bobiel,2002-01-07,1
+Niamey,F,Célibataire,Coiffeuse (homme-dame),Yantala,1998-01-20,0
+Niamey,F,Célibataire,Coiffeuse (homme-dame),Bassora,2001-11-11,1
+Ganchi Bassarou,F,Célibataire,Coiffeuse (homme-dame),Bassora,1990-01-01,1
+Niamey,F,Célibataire,Coiffeuse (homme-dame),Bassora,1996-08-20,1
+Konni,F,Célibataire,Coiffeuse (homme-dame),Lazaret,1991-01-01,1
+Niamey,F,Célibataire,Coiffeuse (homme-dame),Dar es salam,2004-05-01,0
+Niamey,F,Célibataire,Coiffeuse (homme-dame),Banifandou II,1997-10-07,0
+Niamey,F,Célibataire,Plombier,Djiddah,1991-11-08,1
+Niamey,F,Marié(e),Plombier,Yantala,1993-03-21,0
+Niamey,M,Célibataire,Plombier,Yantala,1995-11-18,1
+Niamey,M,Célibataire,Plombier,Pays Bas,2003-04-04,1
+Danga Daouda,M,Célibataire,Plombier,Gab Goura,1992-01-01,1
+Madaoua,M,Célibataire,Plombier,Aéroport,1995-06-03,1
+Niamey,M,Célibataire,Plombier,Aéroport,1994-12-21,0
+Tera,M,Célibataire,Plombier,Aéroport,1998-01-01,1
+Niamey,M,Célibataire,Plombier,Niamey,1997-11-30,1
+Niamey,M,Célibataire,Plombier,Gaway,2002-11-14,1
+Niamey,M,Célibataire,Plombier,Gaway,2003-03-14,1
+Niamey,M,Célibataire,Plombier,Yantala,1988-05-08,0
+Niamey,F,Célibataire,Plombier,Bobiel,2003-11-11,0
+Niamey,M,Célibataire,Plombier,Pays Bas,1997-04-10,1
+Niamey,M,Célibataire,Plombier,Talladjé,2002-02-01,1
+Niamey,M,Célibataire,Plombier,Boukoki,2000-08-29,0
+Niamey,M,Célibataire,Plombier,Yantala,1993-01-03,1
+Niamey,M,Célibataire,Plombier,Talladjé,1994-05-27,1
+Niamey,M,Célibataire,Plombier,Aéroport,2002-04-19,1
+Niamey,F,Célibataire,Plombier,Aéroport,1995-05-13,1
+Filingué,M,Célibataire,Plombier,Aéroport,1999-09-28,1
+Niamey,M,Célibataire,Plombier,Lakouroussou,1994-08-02,1
+Niamey,M,Célibataire,Plombier,Boukoki,2002-12-21,1
+Niamey,M,Célibataire,Plombier,Bani zoumbou,2001-05-29,0
+Kaudou/Dokoro,M,Célibataire,Plombier,Koira Tegui,1995-09-19,0
+Niamey,M,Célibataire,Plombier,Recasement,1994-01-07,0
+Niamey,M,Célibataire,Plombier,Dares Salam,2003-03-28,1
+Maradi,M,Célibataire,Plombier,Losso goungou,1998-02-13,0
+Niamey,M,Célibataire,Plombier,Yantala,1994-08-28,1
+Niamey,M,Célibataire,Plombier,Yantala,1995-03-27,0
+Niamey,M,Célibataire,Menuiserie metallique,Haro Banda,2002-04-29,1
+Niamey,M,Célibataire,Menuiserie metallique,Boukoki,2000-08-04,0
+Niamey,M,Célibataire,Menuiserie metallique,Koira Kano,1998-07-08,0
+Niamey,M,Célibataire,Menuiserie metallique,Lossogoungou,2002-03-01,0
+Niamey,M,Célibataire,Menuiserie metallique,Kombo,2001-07-18,0
+Niamey,M,Célibataire,Menuiserie metallique,Kirkissoye,2002-12-28,0
+Niamey,M,Célibataire,Menuiserie metallique,Gawey,2002-03-10,1
+Niamey,M,Célibataire,Menuiserie metallique,Gawey,1999-01-01,1
+Niamey,M,Célibataire,Menuiserie metallique,Gawey,2004-11-18,0
+Saga Fondo,M,Célibataire,Menuiserie metallique,Dares Salam,2005-01-01,1
+Niamey,M,Célibataire,Menuiserie metallique,Sonuci,2001-07-02,0
+Niamey,M,Célibataire,Menuiserie metallique,CITE BCEAO,2000-12-12,0
+Niamey,M,Célibataire,Menuiserie metallique,Koira Tegui,2004-01-01,1
+Liboré,M,Célibataire,Menuiserie metallique,Lossogoungou,1996-01-01,1
+Bangoutanda,M,Célibataire,Menuiserie metallique,Yantala,2000-06-05,0
+Fabidji,M,Célibataire,Menuiserie metallique,Recasement,2002-01-01,0
+Tessoua,M,Célibataire,Menuiserie metallique,Aeroport,2003-12-04,1
+Niamey,M,Célibataire,Menuiserie metallique,Bani zoumbou,2004-10-16,0
+Madaoua,M,Célibataire,Menuiserie metallique,Koubia,2001-12-22,0
+Niamey,M,Célibataire,Menuiserie metallique,Lossogoungou,2003-01-01,0
+Niamey,M,Célibataire,Menuiserie metallique,Tchangarey,2003-01-14,0
+Tillabery,M,Célibataire,Menuiserie metallique,Tchangarey,2002-01-01,1
+Zinder,M,Célibataire,Menuiserie metallique,2 Chevaux Garage,2000-01-26,1
+Niamey,M,Célibataire,Menuiserie metallique,Lossogoungou,1998-01-01,0
+Niamey,M,Célibataire,Menuiserie metallique,Feni foot,1999-11-14,1
+Niamey,M,Célibataire,Menuiserie metallique,Aeroport,1996-06-17,1
+Niamey,M,Célibataire,Menuiserie metallique,Jangorzo,2000-01-15,0
+Niamey,M,Célibataire,Menuiserie metallique,Yantala,1998-01-01,1
+Niamey,M,Célibataire,Menuiserie metallique,Koubia,2005-01-01,1
+Niamey,M,Célibataire,Menuiserie metallique,Koira Kano,1999-11-16,1
+Niamey,M,Célibataire,Menuiserie metallique,Aéroport,1999-04-30,1
+Niamey,M,Célibataire,Menuiserie metallique,Aéroport,2001-06-11,1
+Niamey,M,Célibataire,Menuiserie metallique,Trosieme laterite,2007-10-30,0
+Niamey,M,Célibataire,Menuiserie Alu,Quartier Abidjan,2004-11-22,0
+Maradi,M,Célibataire,Menuiserie Alu,Recasement,2002-02-03,0
+Niamey,M,Célibataire,Menuiserie Alu,Bobiel,2001-11-11,0
+Niamey,M,Célibataire,Menuiserie Alu,Haro-Banda,1995-01-01,1
+Konni,M,Célibataire,Menuiserie Alu,Talladjé,2002-11-26,0
+Niamey,M,Célibataire,Menuiserie Alu,Francophonie,1993-03-03,0
+Niamey,M,Célibataire,Menuiserie Alu,Koira Tegui,2003-01-01,0
+Niamey,M,Célibataire,Menuiserie Alu,Talladjé,1999-03-02,0
+Gobewa Corré,M,Célibataire,Menuiserie Alu,Bani fandou,1998-01-01,0
+Kaini Koagoun,M,Célibataire,Menuiserie Alu,Bani fandou,2002-01-01,1
+Niamey,M,Célibataire,Menuiserie Alu,Niamey 2000,2002-08-03,0
+Niamey,M,Célibataire,Menuiserie Alu,Kombo,2000-10-15,0
+Niamey,M,Marié(e),Menuiserie Alu,Talladjé,2003-06-06,0
+Niamey,M,Célibataire,Menuiserie Alu,Banifandou,2006-03-28,1
+Niamey,M,Célibataire,Menuiserie Alu,Koira Kano,2002-01-01,1
+Kollo,M,Célibataire,Menuiserie Alu,Banifandou II,1998-05-25,1
+Niamey,M,Célibataire,Menuiserie Alu,Sonuci,2000-03-08,0
+Niamey,M,Célibataire,Menuiserie Alu,SONUCI,2000-10-03,1
+Niamey,M,Célibataire,Staffeur,Pays Bas,2002-12-22,1
+M'Boda,M,Célibataire,Staffeur,Pays Bas,1998-01-01,1
+Gosso,M,Célibataire,Staffeur,Pays Bas,1997-01-01,1
+Niamey,M,Célibataire,Staffeur,Losso goungou,1997-01-18,0
+Niamey,M,Marié(e),Staffeur,Pays Bas,1980-07-06,1
+Niamey,M,Célibataire,Staffeur,Pays Bas,1994-04-23,1
+Karta,M,Célibataire,Staffeur,Haro Banda,1991-01-01,0
+Niamey,M,Célibataire,Staffeur,Karadjé,1997-01-31,1
+Niamey,M,Célibataire,Staffeur,Pays Bas,2000-09-05,1
+Niamey,M,Célibataire,Staffeur,Pays Bas,1997-06-22,0
+Goubeyé,M,Célibataire,Staffeur,Pays Bas,1998-08-15,1
+Konni,M,Marié(e),Staffeur,Niamey 2000,1990-01-01,0
+Koma Bangou,M,Célibataire,Staffeur,Riyad,2003-08-20,1
+Niamey,M,Célibataire,Staffeur,Pays Bas,2001-01-09,0
+Niamey,M,Célibataire,Staffeur,Pays Bas,2001-03-09,1
+Niamey,M,Marié(e),Staffeur,Pays Bas,1993-06-06,1
+Niamey,M,Célibataire,Staffeur,Saga,2003-10-12,0
+Niamey,M,Célibataire,Staffeur,Pays Bas,1999-08-20,0
+Niamey,M,Célibataire,Staffeur,Losso goungou,2003-12-13,0
+Arlit,M,Célibataire,Staffeur,Losso goungou,1998-07-08,1
+Sekir Zarma,M,Célibataire,Staffeur,maourey,2003-03-08,0
+Niamey,M,Célibataire,Staffeur,Aeroport,1998-01-01,1
+Niamey,M,Celibataire,Staffeur,Aeroport,1998-11-08,1
+Niamey,M,Celibataire,Menuiserie metallique,Aéroport,1987-09-22,0
+Niamey,M,Celibataire,Menuiserie metallique,Riyad,1992-01-01,1
+Niamey,M,Celibataire,Menuiserie metallique,Riyad,1989-05-19,0
+Niamey,M,Celibataire,Menuiserie metallique,Riyad,1999-01-01,0
+Niamey,M,Marié,Menuiserie metallique,Yantala,2001-12-19,0
+Niamey,M,Celibataire,Menuiserie metallique,Kombo,2003-12-22,1
+Niamey,M,Celibataire,Menuiserie metallique,Harobanda,2002-01-11,0
+Niamey,M,Celibataire,Menuiserie metallique,Bobiel,2003-03-14,0
+Niamey,M,Marié,Menuiserie metallique,Aéroport,1996-01-01,0
+Niamey,M,Celibataire,Menuiserie metallique,Koubia,1997-12-18,1
+Niamey,M,Celibataire,Menuiserie metallique,Koubia,1998-03-15,0
+Niamey,M,Celibataire,Menuiserie metallique,Koubia,1998-03-01,1
+Doki mana,M,Celibataire,Menuiserie metallique,Koubia,2006-09-14,0
+Say,M,Celibataire,Menuiserie metallique,Kouara Kano,1998-01-01,0
+Niamey,M,Celibataire,Menuiserie metallique,Bobiel,2001-07-06,1
+Niamey,M,Celibataire,Menuiserie metallique,Quartier Abijan,2002-11-03,1
+Dakoro,M,Celibataire,Menuiserie metallique,Bossai Bangou,2001-08-26,1
+Niamey,F,Celibataire,Menuiserie metallique,Recasement,1998-11-10,1
+Niamey,M,Celibataire,Couturier,Cité Député,1999-01-01,1
+Niamey,M,Celibataire,Couturier,Boukoki,2003-04-22,1
+Niamey,M,Celibataire,Couturier,Niamey 2000,2002-02-27,0
+Niamey,M,Celibataire,Couturier,Balafon,2003-10-08,0
+Niamey,F,Celibataire,Couturier,Gaweye,2004-06-13,0
+Niamey,F,Mariée,Couturier,Bobiel,1992-01-01,0
+Niamey,F,Celibataire,Couturier,Yantala,1994-06-21,1
+Niamey,F,Mariée,Couturier,Koira Taguie,2001-03-13,0
+Niamey,F,Celibataire,Couturier,Cite caisse,1995-04-17,0
+Niamey,F,Celibataire,Couturier,Bobiel,2002-08-09,0
+Niamey,F,Celibataire,Couturier,Dan Zama,2003-09-08,1
+Niamey,F,Celibataire,Couturier,Lazaret,2006-06-25,1
+Bnikaré,F,Celibataire,Couturier,Yantala,2006-01-01,1
+Niamey,F,Celibataire,Couturier,Cité Député,2004-06-14,0
+Balilouwa,F,Mariée,Couturier,Lossogoungou,1993-01-01,0
+Niamey,F,Celibataire,Couturier,Gaweye,1995-12-08,0
+Niamey,F,Celibataire,Couturier,Goudel,1994-11-06,1
+Niamey,F,Mariée,Couturier,Koirakano,2002-08-12,0
+Dan-Marké,F,Celibataire,Couturier,Harbobanda,2006-01-01,0
+Niamey,F,Celibataire,Couturier,Boukoki,1997-02-18,0
+Niamey,F,Celibataire,Couturier,Banizounbou,2002-01-01,1
+Niamey,F,Celibataire,Couturier,Niamey 2000,2003-08-10,1
+Niamey,F,Celibataire,Couturier,Kossey,2002-04-22,0
+Gao Sfonfari,F,Celibataire,Couturier,Lazaret,2001-01-01,0
+Kollo,F,Celibataire,Couturier,Baasora,1994-06-16,0
+Niamey,F,Celibataire,Couturier,Tondibia,1997-10-09,1
+Niamey,F,Celibataire,Couturier,Banifandou,2001-07-20,1
+Niamey,F,Celibataire,Couturier,Soudoure,2003-01-12,1
+Niamey,F,Mariée,Couturier,Niamey 2000,2002-09-08,1
+Niamey,F,Celibataire,Couturier,Boukoki,2004-10-02,1
+Niamey,F,Celibataire,Couturier,Lazaret,2004-01-01,1
+Niamey,F,Celibataire,Couturier,aeroport,2003-01-01,1
+Koré Mairoua,F,Celibataire,Couturier,Djidda,2001-01-01,1
+Niamey,F,Celibataire,Couturier,Goudel,2000-01-01,0
+Niamey,F,Mariée,Couturier,Banizoumbou,1992-09-06,1
+Niamey,F,Celibataire,Couturier,Aéroport,1999-09-21,0
+Niamey,F,Celibataire,Couturier,Marché Bonkaney,2000-01-01,0
+Niamey,F,Celibataire,Couturier,Bobiel,2006-08-22,1
+Térra,F,Celibataire,Couturier,Banikoubey,1997-05-14,1
+Niamey,F,Celibataire,Couturier,Dar-es-lam,1999-10-15,0
+Niamey,F,Celibataire,Couturier,Lazaret,2000-01-01,1
+Niamey,M,Celibataire,Couturier,Hopital  reference,2003-10-15,1
+Niamey,F,Celibataire,Couturier,Niamey 2000,1998-03-17,0
+Goho,F,Celibataire,Couturier,Bobiel,1998-10-24,1
+Niamey,F,Celibataire,Couturier,Aéroport,2000-01-02,1
+Niamey,F,Celibataire,Couturier,Gaweye,1997-03-17,1
+Niamey,F,Mariée,Couturier,bobiel,1998-02-02,1
+Niamey,F,Celibataire,Couturier,Gaweye,2004-08-24,1
+Zinder,F,Celibataire,Couturier,Lazaret,1998-01-01,1
+Dosso,F,Celibataire,Couturier,Francophonie,2004-08-02,1
+Niamey,F,Celibataire,Couturier,Nouveau Marché,1995-01-02,0
+Niamey,M,Celibataire,Couturier,Aéroport,2000-01-01,1
+Niamey,F,Celibataire,Couturier,losso gougou,2000-08-10,0
+Niamey,F,Celibataire,Couturier,Pays Bas,2004-06-13,0
+Niamey,F,Mariée,Couturier,Bobiel,1992-07-25,1
+Niamey,F,Celibataire,Couturier,Lazaret,2002-08-30,1
+Niamey,M,Mariée,Couturier,Boukouki,2001-08-11,0
+Niamey,F,Celibataire,Couturier,Rive Droite,2003-10-13,1
+Niamey,F,Celibataire,Couturier,Danzama,2005-11-26,1
+Niamey,F,Celibataire,Couturier,sagia,2005-12-02,0
+Niamey,F,Celibataire,Couturier,Bobiel,1997-05-24,0
+Kollo,F,Celibataire,Couturier,Lazaret,2002-10-28,0
+Niamey,F,Celibataire,Couturier,Goudel,1997-10-15,1
+Niamey,F,Celibataire,Couturier,Ny 2000,2002-04-17,1
+Niamey,F,Celibataire,Couturier,Banikoubey,2004-03-13,1
+Niamey,F,Mariée,Couturier,Dan Zama Koira,2000-01-02,1
+Niamey,F,Mariée,Couturier,cité deputé,2000-09-22,0
+Niamey,F,Mariée,Couturier,koubia,1998-01-28,0
+Niamey,F,Celibataire,Couturier,Koira-Kano,2002-07-31,1
+Niamey,F,Celibataire,Couturier,cité deputé,2003-05-22,0
+Niamey,F,Celibataire,Couturier,Banizoumbou,1999-12-21,0
+Donga Daouda,F,Celibataire,Couturier,Goudel,1998-01-01,0
+Niamey,F,Celibataire,Couturier,Bobiel,1998-01-13,1
+Niamey,F,Mariée,Couturier,Gaweye,1992-01-19,0
+Niamey,F,Mariée,Couturier,Boukoki,1997-01-01,0
+Niamey,F,Celibataire,Couturier,Banifondou,2001-01-18,1
+Niamey,F,Celibataire,Couturier,Cité Député,2002-02-03,1
+Niamey,F,Mariée,Couturier,Aéroport,1996-09-26,1
+Niamey,F,Celibataire,Couturier,Rond point Bare,2003-04-15,1
+Niamey,F,Celibataire,Couturier,Lazaret,2001-02-18,0
+Niamey,F,Celibataire,Couturier,Soni,2003-03-09,1
+Niamey,F,Celibataire,Couturier,Boukouki,2004-03-28,0
+Niamey,F,Celibataire,Couturier,Saga,1997-02-20,0
+Niamey,F,Mariée,Couturier,Gaweye,2001-03-08,0
+Niamey,F,Mariée,Couturier,Yantala,1996-11-14,0
+Niamey,F,Celibataire,Couturier,Lazaret,1996-09-29,1
+Niamey,f,Celibataire,Couturier,Koira Taguie,1998-10-02,0
+Niamey,F,Celibataire,Couturier,Abidjan,2003-10-02,0
+Niamey,F,Celibataire,Couturier,Boukoki,1999-01-02,0
+Niamey,F,Celibataire,Couturier,Cité Député,2002-01-01,1
+Niamey,F,Celibataire,Couturier,Niamey 2000,1998-10-15,0
+Niamey,F,Mariée,Couturier,aeroport,1997-03-04,1
+Niamey,F,Mariée,Couturier,Cité Député,1995-04-13,0
+Niamey,F,Celibataire,Couturier,Aéroport,2002-01-01,0
+Niamey,F,Celibataire,Couturier,cité deputé,2002-12-03,1
+Niamey,F,Celibataire,Couturier,Koira Taguie,2001-01-18,1
+Niamey,F,Celibataire,Couturier,cité deputé,1998-03-31,1
+Niamey,F,Celibataire,Couturier,Bassora,2006-06-15,0
+Niamey,F,Celibataire,Couturier,Koira-Kano,1998-02-03,0
+Niamey,F,Celibataire,Couturier,Goudel,1999-01-01,0
+Niamey,F,Celibataire,Couturier,cité deputé,2007-10-13,1
+Drey-Beri,F,Mariée,Couturier,Goudel,1982-04-01,0
+Niamey,F,Celibataire,Couturier,Koira-Kano,2002-02-16,1
+Niamey,F,Celibataire,Couturier,Banifandou,2004-04-22,0
+Niamey,F,Celibataire,Couturier,Boukouki,2000-04-23,1
+Damana,F,Celibataire,Couturier,Bassora,2001-01-01,1
+Niamey,F,Mariée,Couturier,Cité Député,1985-11-07,1
+Niamey,F,Celibataire,Couturier,Goudel,2004-10-04,1
+Niamey,F,Celibataire,Couturier,Cité Député,2005-08-13,1
+Niamey,F,Mariée,Couturier,aeroport,1993-12-30,1
+Niamey,F,Mariée,Couturier,cité deputé,1984-11-09,0
+Koutoukalé,F,Mariée,Couturier,Yantala,2003-01-01,0
+Niamey,F,celibataire,Couturier,Gaweye,1993-09-04,0
+Sekire peulh,F,Celibataire,Couturier,aeroport,1998-01-01,0
+Niamey,F,Mariée,Couturier,aeroport,1997-01-01,1
+Niamey,F,Celibataire,Couturier,Gaweye,2003-05-15,1
+Niamey,F,Mariée,Couturier,koubia,1994-04-21,1
+Goudel,F,Celibataire,Couturier,Lazaret,2006-03-10,0
+Gardi,F,Celibataire,Couturier,Harbobanda,2000-01-01,0
+Niamey,F,Celibataire,Couturier,Goudel,1998-01-01,0
+Niamey,M,Celibataire,Couturier,Lazaret,2000-02-20,0
+Niamey,F,Celibataire,Couturier,Tchanga Koira,2004-10-16,0
+Niamey,F,Celibataire,Couturier,Koirategui,2003-08-24,0
+Founkoye,F,Celibataire,Couturier,Bobiel,1998-12-14,1
+Bassar,F,Celibataire,Couturier,soni,1995-12-22,1
+Loga,F,Celibataire,Couturier,Harbobanda,2004-01-01,1
+Kirtachi,F,Celibataire,Couturier,Bassora,1997-01-04,0
+Niamey,F,Mariée,Couturier,Lazaret,1988-09-12,1
+Niamey,F,Celibataire,Couturier,Banifandou,2002-01-13,0
+Mada,F,Celibataire,Couturier,Tourakou,2002-11-06,0
+Tera,F,Celibataire,Couturier,2eme Arrondissement,2005-09-27,1
+Tahoua,F,Celibataire,Couturier,Harobanda,1996-09-03,0
+Gao,F,Mariée,Couturier,Kouran nord,1991-01-01,1
+Niamey,F,Celibataire,Couturier,cité deputé,2002-01-01,0
+Niamey,M,Celibataire,Couturier,Talladje,2002-12-14,0
+Mirizam,M,Celibataire,Electricien batiment,soni,2005-07-10,0
+Niamey,M,Celibataire,Electricien batiment,Rive Droite,2001-04-24,0
+Niamey,M,Celibataire,Electricien batiment,2eme Forrage,1997-12-08,1
+Niamey,M,Celibataire,Electricien batiment,Bandabari,2001-03-25,1
+Niamey,M,Celibataire,Electricien batiment,Boukoki,2000-11-09,0
+Niamey,M,Celibataire,Electricien batiment,Lossogoungou,2003-06-26,1
+Niamey,M,Celibataire,Electricien batiment,Banizoumbou,2002-01-01,1
+Maradi,M,Celibataire,Electricien batiment,Aéroport,1995-01-01,1
+Niamey,M,Celibataire,Electricien batiment,yantala,2002-09-21,0
+Niamey,M,Celibataire,Electricien batiment,Kwara kaano,2006-03-24,1
+Niamey,M,Celibataire,Electricien batiment,Ny 2000,2006-03-24,1
+Niamey,M,Celibataire,Electricien batiment,Yantalas,2003-03-20,0
+Niamey,M,Celibataire,Electricien batiment,koira kano,2004-08-23,0
+Zinder,M,Celibataire,Electricien batiment,Lossogoungou,1998-01-01,0
+Niamey,M,Celibataire,Electricien batiment,Ny 2000,1998-10-07,1
+Niamey,M,Celibataire,Electricien batiment,Lossogoungou,1982-12-14,0
+Fantouyan,M,Celibataire,Electricien batiment,Banizoumbou,2003-01-01,1
+Niamey,M,Celibataire,Menuisier,Bassora,2004-06-08,0
+Ouallam,M,Celibataire,Menuisier,Pays Bas,1998-07-21,0
+Niamey,M,Celibataire,Menuisier,Danzama,1994-08-31,0
+Niamey,M,Celibataire,Menuisier,Talladjé,2004-02-27,1
+Niamey,M,Celibataire,Menuisier,Bassora,2005-01-08,1
+Niamey,M,Celibataire,Menuisier,Lacouroussou,1993-08-28,1
+Niamey,M,Celibataire,Menuisier,Harobanda,1995-01-01,0
+Niamey,M,Celibataire,Menuisier,Madina,2002-09-29,1
+Niamey,M,Celibataire,Menuisier,Recasement,2005-07-02,1
+Niamey,M,Celibataire,Menuisier,Lazaret,1998-12-27,0
+Niamey,M,Celibataire,Menuisier,Talladje,1995-01-01,1
+Niamey,M,Celibataire,Menuisier,Koubia,2002-01-01,0
+Niamey,M,Celibataire,Menuisier,Koubia,2005-09-13,1
+Say,M,Celibataire,Menuisier,Koubia,2006-01-01,0
+Niamey,M,Celibataire,Menuisier,Koubia,1998-09-03,0
+Karma,M,Celibataire,Menuisier,Yantala,2001-01-01,0
+Sona,M,Celibataire,Menuisier,Bassora,2003-01-01,1
+Niamey,M,Celibataire,Menuisier,Plateau,2006-07-17,1
+Dadaga,M,Celibataire,Menuisier,Nord Faiseau,2003-05-18,1
+Niamey,H,Celibataire,Mecanique rurale (moto-motopompe-generateur),Bassora,2004-10-13,0
+Niamey,M,Celibataire,Mecanique rurale (moto-motopompe-generateur),Bobiel,2001-06-18,0
+Niamey,M,Celibataire,Mecanique rurale (moto-motopompe-generateur),Quartier Abijan,2003-11-03,1
+Niamey,M,Celibataire,Mecanique rurale (moto-motopompe-generateur),Bobiel,2004-10-11,0
+Baleyara,M,Celibataire,Mecanique rurale (moto-motopompe-generateur),Dar Es Salam,2001-03-14,1
+Niamey,M,Celibataire,Mecanique rurale (moto-motopompe-generateur),Bobiel,2005-08-04,1
+Niamey,M,Celibataire,Mecanique rurale (moto-motopompe-generateur),Boukoki,2000-04-01,1
+Dargol,M,Celibataire,Mecanique rurale (moto-motopompe-generateur),Bobiel,2003-06-19,1
+Niamey,M,Celibataire,Mecanique rurale (moto-motopompe-generateur),NY 2000,2005-09-20,1
+Matameye,M,Celibataire,Mecanique rurale (moto-motopompe-generateur),Yantala Kalao,1998-10-30,0
+Niamey,M,Celibataire,Mecanique rurale (moto-motopompe-generateur),Recasement,1998-10-30,1
+Niamey,M,Celibataire,Mecanique rurale (moto-motopompe-generateur),Yantala,1999-01-30,1
+Niamey,M,Celibataire,Mecanique rurale (moto-motopompe-generateur),Ryad,1999-01-01,1
+Niamey,M,Celibataire,Mecanique rurale (moto-motopompe-generateur),Riad,2000-09-16,1
+Niamey,M,Celibataire,Mecanique rurale (moto-motopompe-generateur),Riad,2005-08-23,0
+Niamey,M,Celibataire,Mecanique rurale (moto-motopompe-generateur),Lossogoungou,2004-11-16,1
+Niamey,M,Celibataire,Mecanique rurale (moto-motopompe-generateur),Aéroport,2001-08-14,1
+Samaye,M,Celibataire,Mecanique rurale (moto-motopompe-generateur),Kouara Kano,1997-01-01,1
+Niamey,M,Celibataire,Mecanique rurale (moto-motopompe-generateur),Lossogoungou,2004-11-23,0
+Niamey,M,Celibataire,Mecanicien Auto,Recasement,2005-12-05,1
+Niamey,M,Celibataire,Mecanicien Auto,Boukouki,2005-06-01,0
+Mirizam,M,Celibataire,Mecanicien Auto,Aéroport,2005-01-01,1
+Arlit,M,Celibataire,Mecanicien Auto,Rive droite,2002-08-09,1
+Maradi,M,Celibataire,Mecanicien Auto,Dan-Zama,2001-05-02,0
+Niamey,M,Celibataire,Mecanicien Auto,Koubia,2002-01-01,0
+Niamey,M,Celibataire,Mecanicien Auto,Kouarategui,1999-10-23,0
+Niamey,M,Celibataire,Mecanicien Auto,Goudel,2003-01-01,0
+Niamey,M,Celibataire,Mecanicien Auto,Goudel,2005-11-24,0
+Dan Marke,M,Celibataire,Mecanicien Auto,Goudel,2006-01-01,0
+Niamey,M,Celibataire,Mecanicien Auto,Tourakou,2001-08-23,1
+Niamey,M,Celibataire,Mecanicien Auto,Recasement,1993-01-30,1
+Niamey,M,Celibataire,Mecanicien Auto,Nouveau Marché,2005-08-28,1
+Niamey,M,Celibataire,Mecanicien Auto,Goudel,1999-10-07,0
+Niamey,M,Celibataire,Mecanicien Auto,Aéroport,1994-01-10,0
+Niamey,M,Celibataire,Mecanicien Auto,Aéroport,1994-01-10,1
+Niamey,M,Celibataire,Mecanicien Auto,Bobiel,2003-09-11,1
+Niamey,M,Celibataire,Mecanicien Auto,Bobiel,2004-03-17,0
+Niamey,M,Celibataire,Mecanicien Auto,Rond Point Baré,2003-03-30,0
+Niamey,M,Celibataire,Mecanicien Auto,Koira-Kano,2002-02-13,1
+Fantio,M,Celibataire,Mecanicien Auto,Boukoki,2000-04-15,1
+Tabala,M,Celibataire,Mecanicien Auto,Bassora,1999-02-12,0
+Niamey,M,Celibataire,Mecanicien Auto,Aéroport,2003-01-01,0
+Madina,M,Celibataire,Mecanicien Auto,Boukoki Askia,2001-01-01,1
+Guandou beri,M,Celibataire,Mecanicien Auto,Boukouki,2001-08-05,1
+Niamey,M,Celibataire,Mecanicien Auto,Aéroport,1994-07-25,1
+Niamey,M,Celibataire,Mecanicien Auto,Aéroport,2000-12-07,1
+Niamey,M,Celibataire,Mecanicien Auto,Quartier Abijan,1998-07-12,1
+Niamey,M,Celibataire,Mecanicien Auto,Boukouki,2000-01-21,0
+Niamey,M,Celibataire,Mecanicien Auto,Liberté,2001-11-13,0
+Niamey,M,Celibataire,Mecanicien Auto,Harobanda,1997-01-01,0
+Niamey,M,Celibataire,Mecanicien Auto,Boukouki,2004-01-01,0
+Niamey,M,Celibataire,Mecanicien Auto,Gaweye,2001-06-15,1
+Niamey,M,Celibataire,Mecanicien Auto,Tchangarey,2003-12-20,0
+Matameye,M,Celibataire,Mecanicien Auto,Goudel,1995-12-13,1
+Niamey,M,Celibataire,Plombier,Danzama,2003-12-25,0
+Niamey,M,Celibataire,Plombier,Yantala,2001-06-24,0
+Niamey,M,Celibataire,Plombier,Yantala,2001-09-29,0
+Dosso,M,Celibataire,Plombier,Yantala,2000-01-01,0
+Tillabery,M,Celibataire,Plombier,Kombo,2002-07-29,0
+Oura Tondi,M,Celibataire,Plombier,SONUCI,1976-01-01,1
+Oura Tondi,M,Celibataire,Plombier,Lossogoungou,1976-01-01,0
+Niamey,F,Celibataire,Plombier,Liboré,2002-02-05,1
+Niamey,M,Celibataire,Plombier,Aéroport,2001-08-03,0
+Zinder,M,Celibataire,Plombier,Harobanda,2002-03-13,1
+Zinder,M,Celibataire,Plombier,Harobanda,2003-01-24,0
+Wassadahatchi,M,Celibataire,Plombier,Danzama,2003-01-01,1
+Niamey,M,Celibataire,Plombier,Aéroport,2006-04-30,0
+Niamey,M,Celibataire,Plombier,Aéroport,2004-06-24,1

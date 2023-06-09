@@ -17,8 +17,8 @@ def sentiment_analysis(model, text):
     return sentiment
 
 # Écrire l'interface utilisateur avec Streamlit
-st.title("Auteur Aziz")
-st.write("#  Analyse de sentiments pour les commentaires de salariés")
+st.title("Auteur A.aziz IDRISSA C.")
+st.write("#  Analyse de sentiments")
 
 
 # Ajouter un champ de saisie pour le commentaire de l'utilisateur

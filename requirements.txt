@@ -1,2 +1,5 @@
 transformers
 sacremoses
+torch 
+torchvision 
+torchaudio

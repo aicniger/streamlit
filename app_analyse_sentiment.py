@@ -19,7 +19,7 @@ def sentiment_analysis(model, text):
 # Écrire l'interface utilisateur avec Streamlit
 st.title("Auteur A.aziz IDRISSA C.")
 st.write("#  Analyse de sentiments")
-pharse=" Découvrez mon application Streamlit pour l'analyse de sentiment ! Obtenez des insights précieux sur vos textes en un instant. Que ce soit pour évaluer des commentaires, des avis produits ou des tweets, cette application vous fournit une analyse de sentiment rapide et fiable. Essayez-la dès maintenant et explorez le pouvoir de l'analyse des sentiments ! "
+phrase=" Découvrez mon application Streamlit pour l'analyse de sentiment ! Obtenez des insights précieux sur vos textes en un instant. Que ce soit pour évaluer des commentaires, des avis produits ou des tweets, cette application vous fournit une analyse de sentiment rapide et fiable. Essayez-la dès maintenant et explorez le pouvoir de l'analyse des sentiments ! "
 st.markdown(phrase)
 
 # Ajouter un champ de saisie pour le commentaire de l'utilisateur

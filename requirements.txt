@@ -6,5 +6,4 @@ torchaudio
 pandas 
 streamlit 
 xlsxwriter
-email.mime.text 
 PIL 

@@ -1,3 +1,4 @@
+streamlit==0.92.1
 transformers
 sacremoses
 torch 

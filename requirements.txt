@@ -11,5 +11,5 @@ base64
 io 
 xlsxwriter
 email.mime.multipart 
-from email.mime.text 
+email.mime.text 
 PIL 

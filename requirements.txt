@@ -1,4 +1,4 @@
-streamlit==0.92.1
+upgrade pip
 transformers
 sacremoses
 torch 

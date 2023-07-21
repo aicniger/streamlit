@@ -5,8 +5,6 @@ torchvision
 torchaudio
 pandas 
 streamlit 
-smtplib
-smtplib 
 base64
 io 
 xlsxwriter

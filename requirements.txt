@@ -5,7 +5,6 @@ torchvision
 torchaudio
 pandas 
 streamlit 
-io 
 xlsxwriter
 email.mime.multipart 
 email.mime.text 

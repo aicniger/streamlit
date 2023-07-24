@@ -10,7 +10,7 @@ import plotly.graph_objects as go
 import base64
 from io import BytesIO
 import streamlit.components.v1 as components
-etoiles = components.declare_component("etoiles", path="./front")
+#etoiles = components.declare_component("etoiles", path="./front")
 
 
 

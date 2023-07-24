@@ -8,3 +8,4 @@ streamlit
 xlsxwriter
 openpyxl
 xformers
+plotly

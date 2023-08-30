@@ -133,6 +133,7 @@ def main():
 
         wine_cnt = df2
         a=df2["Etes-vous satisfait de l'accueil de manière générale ?"].value_counts().reset_index()
+        a=a.copy()
         a["Note"]=a["index"]
         a=a.drop(["index"],axis=1)
         pie_fig=px.pie(a,labels="Note", values="Etes-vous satisfait de l'accueil de manière générale ?",color_discrete_sequence=px.colors.sequential.RdBu)

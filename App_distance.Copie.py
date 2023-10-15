@@ -2,6 +2,10 @@ import streamlit as st
 from pyspark.sql import SparkSession
 from pyspark.sql.functions import col, round
 import _thread
+from dotenv import load_dotenv
+
+load_dotenv()  # Charge les variables d'environnement depuis le fichier .env
+
 
 # Définir une fonction de hachage personnalisée pour _thread._local
 def hash_thread_local(local_obj):
@@ -13,7 +17,9 @@ def hash_thread_local(local_obj):
 def load_data():
     try:
         # Créer une session Spark
-        spark = SparkSession.builder.appName("MySparkApp").getOrCreate()
+        #spark = SparkSession.builder.appName("MySparkApp").getOrCreate()
+        spark = SparkSession.builder.appName("MySparkApp").config("spark.jars", os.environ.get("JAVA_HOME")).getOrCreate()
+
 
         # Charger les DataFrames à partir de fichiers Parquet
         df1_df_int1 = spark.read.parquet("df_int.parquet")

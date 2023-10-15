@@ -13,7 +13,7 @@ def hash_thread_local(local_obj):
     return hash(str(local_obj))
 
 
-@st.cache_resource()
+@st.cache()
 def load_data():
     try:
         # Créer une session Spark

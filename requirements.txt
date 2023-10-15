@@ -1,16 +1,7 @@
 streamlit==1.8.0
 pyspark==3.2.0
 python-dotenv==1.0.0
-transformers
-sacremoses
-torch 
-torchvision 
-torchaudio
 pandas 
-streamlit 
-xlsxwriter
-openpyxl
-xformers
 plotly
 os
 

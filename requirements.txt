@@ -1,0 +1,12 @@
+transformers
+sacremoses
+torch 
+torchvision 
+torchaudio
+pandas 
+streamlit 
+xlsxwriter
+openpyxl
+xformers
+plotly
+pyspark

@@ -16,8 +16,8 @@ def load_data():
         spark = SparkSession.builder.appName("MySparkApp").getOrCreate()
 
         # Charger les DataFrames à partir de fichiers Parquet
-        df1_df_int1 = spark.read.parquet("df_intt.parquet")
-        df2_df_merge = spark.read.parquet("df_merg.parquet")
+        df1_df_int1 = spark.read.parquet("df_int.parquet")
+        df2_df_merge = spark.read.parquet("df_merge.parquet")
 
         # Effectuer une jointure entre les DataFrames
         result = df1_df_int1.join(df2_df_merge, "code_commune", how="inner")

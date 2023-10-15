@@ -3,6 +3,7 @@ from pyspark.sql import SparkSession
 from pyspark.sql.functions import col, round
 import _thread
 from dotenv import load_dotenv
+import os
 
 load_dotenv()  # Charge les variables d'environnement depuis le fichier .env
 

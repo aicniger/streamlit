@@ -18,8 +18,8 @@ def hash_thread_local(local_obj):
 def load_data():
     try:
         # Créer une session Spark
-        #spark = SparkSession.builder.appName("MySparkApp").getOrCreate()
-        spark = SparkSession.builder.appName("MySparkApp").config("spark.jars", os.environ.get("JAVA_HOME")).getOrCreate()
+        spark = SparkSession.builder.appName("MySparkApp").getOrCreate()
+        #spark = SparkSession.builder.appName("MySparkApp").config("spark.jars", os.environ.get("JAVA_HOME")).getOrCreate()
 
 
         # Charger les DataFrames à partir de fichiers Parquet
